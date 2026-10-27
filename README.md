@@ -46,7 +46,6 @@ It helps penetration testers, bug bounty hunters, and OSINT researchers quickly 
 git clone https://github.com/mammadow1337/DorkNyx.git
 cd DorkNyx
 python dorknyx.py
-
 ```
 
 No additional libraries are required. Python 3 is enough.
